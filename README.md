@@ -12,7 +12,7 @@ The project covers fundamental Django concepts including:
 - Running the development server
 - Basic CRUD-style todo functionality
 
-Django provides an automatic admin interface that allows developers to quickly create, view, update, and delete records based on application models, making it useful for internal data management and rapid development. :contentReference[oaicite:0]{index=0}
+Django provides an automatic admin interface that allows developers to quickly create, view, update, and delete records based on application models, making it useful for internal data management and rapid development.
 
 ## Features
 
